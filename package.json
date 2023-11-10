@@ -63,7 +63,7 @@
     "@types/ws": "^7.2.7",
     "@typescript-eslint/eslint-plugin": "^4.4.1",
     "@typescript-eslint/parser": "^4.4.1",
-    "actions-on-google": "^2.13.0",
+    "actions-on-google": "^3.0.0",
     "eslint": "^7.11.0",
     "hap-node-client": "^0.1.5",
     "hap-nodejs": "^0.8.2",
